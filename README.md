@@ -2,12 +2,12 @@
 A home-lab setup designed to practice real threat-hunting skills using Velociraptor
 
 
-Objective
+OBJECTIVE
 
 To create a complete threat-hunting home-lab using Velociraptor that enables hands-on practice in endpoint monitoring, forensic evidence collection, real-time detection of suspicious activity, and investigation of simulated cyber-attacks in a controlled environment.
 
 
-Tools Used
+TOOLS USED
 
 .Velociraptor Server & Client
 .Ubuntu server
@@ -16,7 +16,7 @@ Tools Used
 
 
 
-Leassons Learned
+LESSONS LEARNED
 
 
 1 Learned how to install and configure Velociraptor for both server and client environments.
