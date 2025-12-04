@@ -46,7 +46,7 @@ LESSONS LEARNED
 10 Improved overall skills in threat hunting, digital forensics, and endpoint visibility.
 
 
-[Threat Hunting Home-Lab using Velociraptor](https://github.com/TheCyberMask/Splunk-Dashboard-for-Web-Traffic-Logs/blob/main/Splunk%20Dashboard%20for%20Web%20Traffic%20Logs.pdf)
+[Threat Hunting Home-Lab using Velociraptor](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor/blob/main/Threat%20Hunting%20Home%20Lab%20using%20Velociraptor.pdf)
 
 
 
