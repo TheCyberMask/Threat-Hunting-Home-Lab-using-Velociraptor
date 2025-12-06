@@ -1,4 +1,4 @@
-# Threat-Hunting-Home-Lab-using-Velociraptor
+# Threat Hunting and Forensics Home Lab using Velociraptor
 A home-lab setup designed to practice real threat-hunting skills using Velociraptor
 
 
@@ -44,6 +44,9 @@ LESSONS LEARNED
 9 Learned how attackers behave by simulating small attack scenarios and analyzing the results.
 
 10 Improved overall skills in threat hunting, digital forensics, and endpoint visibility.
+
+
+REPORT
 
 
 [Threat Hunting Home-Lab using Velociraptor](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor/blob/main/Threat%20Hunting%20Home%20Lab%20using%20Velociraptor.pdf)
