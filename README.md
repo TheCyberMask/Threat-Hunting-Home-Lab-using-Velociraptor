@@ -2,14 +2,14 @@
 A home-lab setup designed to practice real threat-hunting skills using Velociraptor
 
 
-OBJECTIVE
+## OBJECTIVE
 
 
 
 To create a complete threat-hunting home-lab using Velociraptor that enables hands-on practice in endpoint monitoring, forensic evidence collection, real-time detection of suspicious activity, and investigation of simulated cyber-attacks in a controlled environment.
 
 
-TOOLS USED
+## TOOLS USED
 
 
 
@@ -20,7 +20,7 @@ TOOLS USED
 
 
 
-LESSONS LEARNED
+## LESSONS LEARNED
 
 
 
@@ -46,7 +46,7 @@ LESSONS LEARNED
 10 Improved overall skills in threat hunting, digital forensics, and endpoint visibility.
 
 
-REPORT
+# REPORT
 
 
 [Threat Hunting Home-Lab using Velociraptor](https://github.com/TheCyberMask/Threat-Hunting-Home-Lab-using-Velociraptor/blob/main/Threat%20Hunting%20Home%20Lab%20using%20Velociraptor.pdf)
