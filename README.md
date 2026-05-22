@@ -13,10 +13,7 @@ To create a complete threat-hunting home-lab using Velociraptor that enables han
 
 
 
-Velociraptor Server & Client
-Ubuntu server
-Ubuntu Desktop
-Virtual Box
+Velociraptor Server & Client, Ubuntu Server, Ubuntu Desktop, VirtualBox
 
 
 
